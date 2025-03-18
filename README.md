@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website hosted on GitHub Pages. The website showcases my work as a Data Scientist and includes information about my projects and professional background.
+This is my personal portfolio website hosted on GitHub Pages. The website showcases my work and includes information about my projects and professional background.
 
 ## Website Sections
 
@@ -8,12 +8,6 @@ This is my personal portfolio website hosted on GitHub Pages. The website showca
 - **About**: Professional background and skills
 - **Projects**: Showcase of my data science and machine learning projects
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- Font Awesome for icons
-- Google Fonts (Poppins)
 
 ## Live Website
 
